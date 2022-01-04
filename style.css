@@ -1,8 +1,38 @@
-.intro{
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,700&display=swap');
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+section{
   margin-top: 2rem;
   margin-bottom: 4rem;
+}
 
-  
+.intro{
+padding: .5rem;
+}
+
+.presentation{
+ 
+  padding: 1rem;
+}
+
+.tarif{
+  padding: 1rem;
+  background-color: beige;
+  font-size: 120%;
+}
+
+.tarif > ul > li{
+  text-decoration: none;
+}
+
+.option-item{
+  padding: 1rem;
+  color: aliceblue;
+  background-color: rgb(180, 147, 116);
+  font-size: 120%;
 }
 
 .title-blue{
@@ -21,4 +51,16 @@
   width: 40px;
   height: 5px;
   display: block;
+}
+
+.titre-violet{
+  color: #8d1e7c;
+  padding: 1rem;
+}
+
+
+.footer{
+  height: 6rem;
+  background-color: lightblue;
+  padding: 2rem;
 }
