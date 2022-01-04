@@ -70,3 +70,9 @@ padding: .5rem;
   background-color: lightblue;
   padding: 2rem;
 }
+
+.para{
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.8;
+}
