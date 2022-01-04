@@ -5,8 +5,9 @@ body{
 }
 
 section{
-  margin-top: 2rem;
+  margin-top: 4rem;
   margin-bottom: 4rem;
+ 
 }
 
 .intro{
@@ -59,8 +60,13 @@ padding: .5rem;
 }
 
 
-.footer{
-  height: 6rem;
+.bg-light {
+  background-color: #f6f5f5 !important;
+  padding: 150px 15px 150px 15px;
+}
+
+
+.site-footer{
   background-color: lightblue;
   padding: 2rem;
 }
