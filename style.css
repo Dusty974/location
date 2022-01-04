@@ -1,0 +1,24 @@
+.intro{
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+
+  
+}
+
+.title-blue{
+   font: 600 32px Arial,sans-serif;
+    color: #8d1e7c;
+
+    padding: 120px 0 0 0;
+    font-size: calc(1em + 1.25vw);
+    line-height: 1.5em;
+}
+
+
+.tiret-violet-milieu {
+  margin: 30px auto;
+  background-color: #8d1e7c;
+  width: 40px;
+  height: 5px;
+  display: block;
+}
